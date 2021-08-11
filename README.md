@@ -34,20 +34,41 @@ On successful completion of this module, a student will be able to:
 ### Module outline
 
 
-| Session       | Topic                       | Lecture           | Practical/Lab   |  Additional Digital Self-paced Training  | Knowledge check |
-| ------------  | -------------               |------------------ | --------------  |  --------------                          |-----------------|
+| Session                     | Topic                       | Lecture           | Practical/Lab   |  Additional Digital Self-paced Training  | Knowledge check |
+| ------------                | -------------               |------------------ | --------------  |  --------------                          |-----------------|
 | [Lecture 1](#lecture-1)     | Introduction to Cloud computing, Data Science and AI  
-| Lecture 2     | Cloud Concepts I: architecture, infrastructure, services, best practices
-| Lecture 3     | Cloud Concepts II: security, privacy, replication, reliability, compliance
-| Lecture 4     | Data Science in the Cloud I: collecting & storing data
-| Lecture 5     | Data Science in the Cloud II: Database services - Querying your data
-| Lecture 6     | Data Science in the Cloud III: Processing & cleaning Data
-| Lecture 7     | Data Science in the Cloud IV: Analysis and Visualisation
-| Lecture 8     | Data Science in the Cloud V: ecosystem comparisons (Amazon AWS, Microsoft Azure, Google Cloud)
-| Lecture 9     | Artificial Intelligence: How cloud computing changed everything 
-| Lecture 10    | Cloud Computing Architecture: Migrating a data analytics project to the cloud I
-| Lecture 11    | Cloud Computing Architecture: Migrating a data analytics project to the cloud II
-| Lecture 12    | Module Recap and Assignment Q&A
+| [Lecture 2](#lecture-2)     | Cloud Concepts I: architecture, infrastructure, services, best practices
+| [Lecture 3](#lecture-3)     | Cloud Concepts II: security, privacy, replication, reliability, compliance
+| [Lecture 4](#lecture-4)     | Data Science in the Cloud I: collecting & storing data
+| [Lecture 5](#lecture-5)     | Data Science in the Cloud II: Database services - Querying your data
+| [Lecture 6](#lecture-6)     | Data Science in the Cloud III: Processing & cleaning Data
+| [Lecture 7](#lecture-7)     | Data Science in the Cloud IV: Analysis and Visualisation
+| [Lecture 8](#lecture-8)     | Data Science in the Cloud V: ecosystem comparisons (Amazon AWS, Microsoft Azure, Google Cloud)
+| [Lecture 9](#lecture-9)     | Artificial Intelligence: How cloud computing changed everything 
+| [Lecture 10](#lecture-10)   | Cloud Computing Architecture: Migrating a data analytics project to the cloud I
+| [Lecture 11](#lecture-11)   | Cloud Computing Architecture: Migrating a data analytics project to the cloud II
+| [Lecture 12](#lecture-12)   | Module Recap and Assignment Q&A
 
 
-#### Lecture 1
+### Lecture 1
+**Introduction to Cloud computing, Data Science and AI**
+<details>
+  <summary>Content Outline</summary>
+
+  1. A numbered
+  2. list
+     * With some
+     * Sub bullets
+</details>
+
+### Lecture 2
+### Lecture 3
+### Lecture 4
+### Lecture 5
+### Lecture 6
+### Lecture 7
+### Lecture 8
+### Lecture 9
+### Lecture 10
+### Lecture 11
+### Lecture 12

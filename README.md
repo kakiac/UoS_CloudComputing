@@ -1,6 +1,8 @@
-## Cloud Computing for Data Science and AI (2020-21, University of Suffolk)
+![image](https://github.com/kakiac/UoS_CloudComputing/assets/10551558/2f2841e7-043a-4d44-bcb6-e43eef1bc3b9)
 
-<img src="https://icanbea.org.uk/media/shapes/original/x-large/5000/5100/university-of-suffolk-logo.png" height="100" >
+## Cloud Computing for Data Science and AI (University of Suffolk)
+
+<img src="https://icanbea.org.uk/media/shapes/original/x-large/5000/5100/university-of-suffolk-logo.png" height="100" />
 
 ### Module info 
 

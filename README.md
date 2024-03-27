@@ -2,8 +2,6 @@
 
 ## Cloud Computing for Data Science and AI (University of Suffolk)
 
-<img src="https://icanbea.org.uk/media/shapes/original/x-large/5000/5100/university-of-suffolk-logo.png" height="100" />
-
 ### Module info 
 
 | Module Title  | Introduction to Programming |
@@ -12,6 +10,11 @@
 | Level         | 7 (MSc / postgraduate)      |
 | School        | School of Engineering, Arts, Science and Technology |
 | Github Repo   | UoS_CloudComputing          |
+
+### Offered at
+<img src="https://icanbea.org.uk/media/shapes/original/x-large/5000/5100/university-of-suffolk-logo.png" height="100" />
+
+### About this module
 
 The on-demand delivery of compute, database, storage, applications and IT resources through cloud computing has enabled many organisations to deliver innovative solutions without upfront capital investment. Cloud computing ecosystems provide a variety of scalable AI and machine learning solutions. This module provides a comprehensive grounding in cloud computing concepts and solutions, buttressed with extensive practicals to build experience in individual services and architectural designs. As the University of Suffolk is an AWS Academy partner institution, the module will give you an opportunity to acquire AWS certification(s) if you so wish. 
 

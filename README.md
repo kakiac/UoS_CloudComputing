@@ -4,11 +4,11 @@
 
 ### Module info 
 
-| Module Title  | Introduction to Programming |
+| Module Title  | Cloud Computing for Data Science and AI |
 | ------------  | -------------               |
 | Module Code   | IPLDSAM03                   |
 | Level         | 7 (MSc / postgraduate)      |
-| School        | School of Engineering, Arts, Science and Technology |
+| School        | School of Technology, Business and Arts |
 | Github Repo   | UoS_CloudComputing          |
 
 ### Offered at
